@@ -22,5 +22,5 @@
 
 
 hello <- function() {
-  print("Hello, world!")
+  print("Hello, world! Have a nice day!!")
 }
