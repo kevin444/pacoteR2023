@@ -15,7 +15,7 @@
 
 
 
-#' Função Olá mundo (retirado)
+#' Função Olá mundo (mudei)
 #'
 #' export
 #'
