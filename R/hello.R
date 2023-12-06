@@ -15,7 +15,7 @@
 
 
 
-#' Função Olá mundo
+#' Função Olá mundo +tu
 #'
 #' export
 #'
